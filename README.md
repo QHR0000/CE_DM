@@ -1,5 +1,8 @@
 # CE_DM
 for  Paper Implementation
+
+If you want to train the model please first install:
+
 apt-get install tk-dev python-tk
 pip install pandas
 pip install pycocotools
